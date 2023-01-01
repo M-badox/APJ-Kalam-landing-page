@@ -23,7 +23,7 @@ h1.title
 {
     background-color: rgb(46,139,87,0.25);
     box-shadow:20px 20px 20px #98FB98;
-    padding: 25px;
+    padding: 25px 25px;
     margin: 11px;
     margin-top: 50px;
 }
@@ -31,4 +31,5 @@ h1.title
 {
     text-decoration: none;
     color: black;
+    
 }
